@@ -191,7 +191,7 @@ header {
 }
 
 .section {
-  max-width: 762px;
+  max-width: 320px;
   padding-top: 76px;
   padding-bottom: 76px;
   margin: o auto;
@@ -469,7 +469,9 @@ section:nth-child(3) {
   color: #f4f4fd;
 }
 
-.webstudio-footer {}
+.webstudio-footer {
+  margin-bottom: 72px;
+}
 
 .footer-paragraph {
   text-align: justify;
